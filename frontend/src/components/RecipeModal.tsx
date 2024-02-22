@@ -8,7 +8,7 @@ const RecipeModal = () => {
             <h2>RECIPE TITLE</h2>
             <span className="close-btn">&times;</span>
           </div>
-          <p>RECIPE SUMMARY</p>
+          <p>RECIPE SUMMeRY</p>
         </div>
       </div>
     </>
