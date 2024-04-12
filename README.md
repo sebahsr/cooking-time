@@ -25,7 +25,7 @@ Follow these instructions to get the Recipe App up and running on your local mac
 **Installation:**
 1. Clone the repository to your local machine:
    ```
-   git clone <repository_url>
+   git clone https://github.com/sebahsr/cooking-time.git
    ```
 2. Navigate to the project directory:
    ```
@@ -74,7 +74,7 @@ Contributions to the Recipe App are welcome! If you find any bugs or have sugges
 
 **License:**
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License].
 
 ---
 
